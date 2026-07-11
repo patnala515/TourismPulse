@@ -1,0 +1,433 @@
+month,state,domestic_tourists,foreign_tourists,total_tourists,tourism_revenue_inr_crore,purpose_of_visit,growth_%_approx.,season
+January,Andhra Pradesh,4860784,66573,4927357,48.18,Adventure,3.84,Winter
+January,Arunachal Pradesh,4952209,141398,5093607,67.77,Leisure,12.38,Winter
+January,Assam,3593091,197765,3790856,68.05,Business,10.17,Winter
+January,Bihar,4679021,79019,4758040,83.0,Religious,-4.07,Winter
+January,Chhattisgarh,3790213,113374,3903587,32.73,Adventure,3.44,Winter
+January,Goa,3281237,101135,3382372,60.65,Religious,3.58,Winter
+January,Gujarat,738767,169623,908390,13.0,Business,0.19,Winter
+January,Haryana,2999923,94719,3094642,33.13,Religious,-0.16,Winter
+January,Himachal Pradesh,96657,20375,117032,2.79,Medical,10.34,Winter
+January,Jharkhand,1453778,123706,1577484,25.01,Business,12.61,Winter
+January,Karnataka,4226642,115327,4341969,37.81,Adventure,-4.24,Winter
+January,Kerala,2301105,13201,2314306,16.73,Business,-4.07,Winter
+January,Madhya Pradesh,283465,104560,388025,4.22,Leisure,13.75,Winter
+January,Maharashtra,823202,99420,922622,7.5,Religious,5.48,Winter
+January,Manipur,2968202,191720,3159922,56.22,Medical,-0.76,Winter
+January,Meghalaya,912950,133585,1046535,8.19,Leisure,7.1,Winter
+January,Mizoram,1224094,110546,1334640,22.03,Business,4.8,Winter
+January,Nagaland,1322976,21076,1344052,32.59,Leisure,-4.16,Winter
+January,Odisha,4985328,179236,5164564,46.61,Medical,-1.94,Winter
+January,Punjab,366330,111090,477420,5.94,Leisure,-1.45,Winter
+January,Rajasthan,2099636,50008,2149644,32.38,Business,-2.45,Winter
+January,Sikkim,843964,57336,901300,19.37,Business,-0.2,Winter
+January,Tamil Nadu,3441012,92828,3533840,69.37,Adventure,2.84,Winter
+January,Telangana,4534852,16015,4550867,112.52,Religious,-1.85,Winter
+January,Tripura,916992,35513,952505,13.99,Medical,11.82,Winter
+January,Uttar Pradesh,3499229,172142,3671371,79.2,Business,3.26,Winter
+January,Uttarakhand,3262363,155255,3417618,48.01,Adventure,-0.91,Winter
+January,West Bengal,1997948,182452,2180400,20.89,Adventure,7.45,Winter
+January,Delhi,3035642,71873,3107515,69.84,Religious,-4.47,Winter
+January,Jammu & Kashmir,2255133,5445,2260578,44.98,Adventure,2.8,Winter
+January,Ladakh,3645491,49562,3695053,38.91,Adventure,0.44,Winter
+January,Puducherry,3978554,77878,4056432,48.16,Medical,6.82,Winter
+January,Chandigarh,3753468,174532,3928000,96.12,Religious,-3.63,Winter
+January,Andaman & Nicobar Islands,2539148,68865,2608013,53.89,Adventure,6.38,Winter
+January,Lakshadweep,2540430,108230,2648660,34.52,Business,10.48,Winter
+January,Daman & Diu,2585113,121844,2706957,32.42,Medical,11.03,Winter
+February,Andhra Pradesh,251348,143187,394535,2.26,Medical,0.84,Winter
+February,Arunachal Pradesh,803036,157791,960827,21.45,Adventure,4.32,Winter
+February,Assam,1124962,187390,1312352,14.99,Religious,11.09,Winter
+February,Bihar,737689,65898,803587,11.74,Adventure,2.4,Winter
+February,Chhattisgarh,1669814,54563,1724377,11.69,Business,-2.32,Winter
+February,Goa,216055,174789,390844,9.76,Adventure,-0.56,Winter
+February,Gujarat,472702,56393,529095,11.66,Religious,0.31,Winter
+February,Haryana,1993971,182357,2176328,36.42,Adventure,-1.83,Winter
+February,Himachal Pradesh,1172772,159794,1332566,21.47,Business,-0.74,Winter
+February,Jharkhand,1140764,133663,1274427,20.58,Religious,0.56,Winter
+February,Karnataka,422861,95475,518336,3.46,Religious,4.74,Winter
+February,Kerala,83443,16945,100388,0.82,Leisure,4.66,Winter
+February,Madhya Pradesh,3156277,53308,3209585,78.65,Medical,2.08,Winter
+February,Maharashtra,4729256,137698,4866954,111.29,Adventure,-3.81,Winter
+February,Manipur,650862,153147,804009,16.09,Business,12.38,Winter
+February,Meghalaya,887315,166182,1053497,7.04,Adventure,9.84,Winter
+February,Mizoram,470935,96496,567431,6.25,Religious,-4.45,Winter
+February,Nagaland,1224645,101142,1325787,26.29,Business,1.65,Winter
+February,Odisha,1233522,142290,1375812,10.75,Adventure,0.02,Winter
+February,Punjab,1130132,16478,1146610,15.32,Medical,5.51,Winter
+February,Rajasthan,2112141,26254,2138395,17.54,Adventure,-2.49,Winter
+February,Sikkim,1894076,167375,2061451,49.88,Adventure,14.91,Winter
+February,Tamil Nadu,3588599,1284,3589883,82.14,Adventure,8.24,Winter
+February,Telangana,3810886,172851,3983737,87.36,Adventure,0.76,Winter
+February,Tripura,107173,71195,178368,2.53,Adventure,-0.23,Winter
+February,Uttar Pradesh,1313105,77829,1390934,33.22,Business,10.87,Winter
+February,Uttarakhand,1088230,116479,1204709,16.73,Religious,2.88,Winter
+February,West Bengal,4422782,173959,4596741,40.69,Medical,0.59,Winter
+February,Delhi,2561175,147583,2708758,47.07,Leisure,8.05,Winter
+February,Jammu & Kashmir,1181059,21042,1202101,11.24,Leisure,-4.43,Winter
+February,Ladakh,4981522,42401,5023923,93.64,Medical,6.74,Winter
+February,Puducherry,470153,110472,580625,4.65,Adventure,0.02,Winter
+February,Chandigarh,1564507,185991,1750498,29.61,Business,-4.62,Winter
+February,Andaman & Nicobar Islands,4187930,44980,4232910,101.25,Business,6.33,Winter
+February,Lakshadweep,1539515,75660,1615175,22.84,Religious,-4.21,Winter
+February,Daman & Diu,4823773,121263,4945036,27.19,Business,-4.21,Winter
+March,Andhra Pradesh,1377738,17655,1395393,15.15,Leisure,-4.33,Summer
+March,Arunachal Pradesh,708912,39871,748783,14.74,Leisure,4.33,Summer
+March,Assam,3700563,70542,3771105,28.27,Medical,0.4,Summer
+March,Bihar,4633304,68559,4701863,54.06,Adventure,4.86,Summer
+March,Chhattisgarh,2202360,134305,2336665,27.39,Leisure,13.56,Summer
+March,Goa,674140,104064,778204,16.14,Medical,-2.04,Summer
+March,Gujarat,2557294,67148,2624442,48.94,Medical,8.56,Summer
+March,Haryana,754110,40505,794615,7.13,Business,8.35,Summer
+March,Himachal Pradesh,3972159,28548,4000707,40.2,Medical,12.1,Summer
+March,Jharkhand,1947125,151431,2098556,33.47,Religious,6.14,Summer
+March,Karnataka,3684212,129700,3813912,63.39,Religious,7.42,Summer
+March,Kerala,1290729,170597,1461326,13.09,Religious,-0.71,Summer
+March,Madhya Pradesh,4920832,174642,5095474,65.07,Religious,7.05,Summer
+March,Maharashtra,346475,133046,479521,9.44,Business,-4.58,Summer
+March,Manipur,469813,149603,619416,13.78,Medical,2.61,Summer
+March,Meghalaya,3919362,102756,4022118,73.2,Business,-3.09,Summer
+March,Mizoram,3967302,71697,4038999,41.81,Business,2.5,Summer
+March,Nagaland,4171353,46423,4217776,42.83,Leisure,-1.18,Summer
+March,Odisha,1870189,79759,1949948,43.21,Leisure,5.58,Summer
+March,Punjab,2538873,16907,2555780,57.37,Business,-2.75,Summer
+March,Rajasthan,4852893,27884,4880777,100.89,Leisure,-3.95,Summer
+March,Sikkim,2993185,177619,3170804,75.19,Leisure,-4.01,Summer
+March,Tamil Nadu,3425279,185372,3610651,38.15,Adventure,11.34,Summer
+March,Telangana,2292145,18628,2310773,48.99,Leisure,1.71,Summer
+March,Tripura,3055182,33873,3089055,16.39,Adventure,4.03,Summer
+March,Uttar Pradesh,1538655,76091,1614746,37.38,Medical,-3.28,Summer
+March,Uttarakhand,4250452,49579,4300031,102.24,Medical,-1.79,Summer
+March,West Bengal,1126311,36781,1163092,27.66,Leisure,-0.59,Summer
+March,Delhi,2791919,14374,2806293,32.09,Leisure,13.59,Summer
+March,Jammu & Kashmir,3973205,112627,4085832,55.13,Leisure,8.56,Summer
+March,Ladakh,308279,55886,364165,3.52,Medical,11.9,Summer
+March,Puducherry,378838,129269,508107,5.65,Religious,6.16,Summer
+March,Chandigarh,4066454,52591,4119045,67.58,Medical,6.79,Summer
+March,Andaman & Nicobar Islands,149336,99155,248491,5.73,Religious,-4.56,Summer
+March,Lakshadweep,1605857,194927,1800784,24.69,Adventure,-2.98,Summer
+March,Daman & Diu,3491891,111057,3602948,76.62,Adventure,0.87,Summer
+April,Andhra Pradesh,3141951,51026,3192977,38.34,Business,12.4,Summer
+April,Arunachal Pradesh,250071,173937,424008,10.19,Business,11.42,Summer
+April,Assam,1225330,83237,1308567,31.87,Leisure,11.06,Summer
+April,Bihar,1294143,184334,1478477,18.98,Leisure,13.59,Summer
+April,Chhattisgarh,922917,132463,1055380,20.62,Medical,8.77,Summer
+April,Goa,4066978,176778,4243756,72.35,Business,1.68,Summer
+April,Gujarat,3683440,12793,3696233,37.76,Medical,9.21,Summer
+April,Haryana,3231687,96708,3328395,36.75,Religious,-4.5,Summer
+April,Himachal Pradesh,2026140,13726,2039866,47.65,Leisure,9.92,Summer
+April,Jharkhand,2035357,153700,2189057,34.27,Leisure,11.32,Summer
+April,Karnataka,1078860,115410,1194270,8.14,Religious,-1.33,Summer
+April,Kerala,3979850,90171,4070021,101.74,Business,9.75,Summer
+April,Madhya Pradesh,4164505,116827,4281332,51.56,Leisure,-1.07,Summer
+April,Maharashtra,4095643,94681,4190324,98.0,Leisure,-4.44,Summer
+April,Manipur,3192436,68812,3261248,19.36,Religious,12.23,Summer
+April,Meghalaya,2304111,195309,2499420,20.8,Business,2.01,Summer
+April,Mizoram,272224,129453,401677,8.36,Adventure,8.73,Summer
+April,Nagaland,3596943,72021,3668964,29.71,Leisure,3.23,Summer
+April,Odisha,3258922,58884,3317806,72.07,Religious,-4.72,Summer
+April,Punjab,728810,70324,799134,5.95,Business,-2.66,Summer
+April,Rajasthan,1499646,46025,1545671,21.56,Medical,13.9,Summer
+April,Sikkim,730375,40004,770379,9.34,Medical,0.94,Summer
+April,Tamil Nadu,4245944,118042,4363986,66.57,Business,4.91,Summer
+April,Telangana,4111698,152621,4264319,23.95,Adventure,14.02,Summer
+April,Tripura,768718,82166,850884,19.56,Medical,13.88,Summer
+April,Uttar Pradesh,484310,36457,520767,12.3,Leisure,7.25,Summer
+April,Uttarakhand,669420,38286,707706,10.61,Leisure,4.48,Summer
+April,West Bengal,180810,63445,244255,1.77,Business,0.0,Summer
+April,Delhi,4663163,77883,4741046,31.69,Adventure,13.29,Summer
+April,Jammu & Kashmir,3326189,42185,3368374,21.9,Medical,7.97,Summer
+April,Ladakh,83667,67867,151534,2.54,Leisure,0.73,Summer
+April,Puducherry,4344935,167230,4512165,45.19,Leisure,14.19,Summer
+April,Chandigarh,4463830,83077,4546907,67.54,Adventure,14.55,Summer
+April,Andaman & Nicobar Islands,473311,19820,493131,4.92,Medical,-1.42,Summer
+April,Lakshadweep,4814212,83959,4898171,93.76,Business,8.96,Summer
+April,Daman & Diu,901991,37619,939610,11.57,Medical,-3.01,Summer
+May,Andhra Pradesh,2712725,34575,2747300,52.79,Medical,1.05,Summer
+May,Arunachal Pradesh,4875217,87358,4962575,101.88,Business,-0.72,Summer
+May,Assam,2137579,136025,2273604,39.19,Business,4.09,Summer
+May,Bihar,932833,187830,1120663,21.3,Business,4.32,Summer
+May,Chhattisgarh,2634151,183852,2818003,41.51,Medical,14.89,Summer
+May,Goa,4188311,80768,4269079,49.22,Leisure,2.05,Summer
+May,Gujarat,4936077,59558,4995635,29.59,Leisure,7.29,Summer
+May,Haryana,2521789,20055,2541844,63.21,Leisure,8.36,Summer
+May,Himachal Pradesh,2112719,182676,2295395,12.4,Business,13.95,Summer
+May,Jharkhand,1498514,67310,1565824,37.7,Business,11.02,Summer
+May,Karnataka,3753319,127490,3880809,48.53,Leisure,6.92,Summer
+May,Kerala,2657515,97276,2754791,24.09,Medical,-3.97,Summer
+May,Madhya Pradesh,503083,193269,696352,5.29,Business,11.35,Summer
+May,Maharashtra,2231016,117627,2348643,31.88,Adventure,3.56,Summer
+May,Manipur,438844,71613,510457,12.09,Leisure,9.5,Summer
+May,Meghalaya,1321610,69628,1391238,19.82,Medical,-0.43,Summer
+May,Mizoram,3045050,41548,3086598,38.51,Religious,1.73,Summer
+May,Nagaland,615649,24742,640391,9.45,Religious,8.07,Summer
+May,Odisha,3805561,31305,3836866,47.63,Leisure,5.31,Summer
+May,Punjab,2232545,179442,2411987,35.59,Religious,3.87,Summer
+May,Rajasthan,2975215,173304,3148519,69.9,Business,3.93,Summer
+May,Sikkim,1675286,46559,1721845,17.42,Religious,4.91,Summer
+May,Tamil Nadu,224955,170032,394987,2.42,Adventure,-3.34,Summer
+May,Telangana,4176120,8022,4184142,31.46,Business,-1.05,Summer
+May,Tripura,1586440,53308,1639748,37.5,Business,-3.98,Summer
+May,Uttar Pradesh,3529542,143107,3672649,62.78,Adventure,4.57,Summer
+May,Uttarakhand,2771240,51811,2823051,57.34,Leisure,2.49,Summer
+May,West Bengal,2834869,105602,2940471,51.5,Medical,13.46,Summer
+May,Delhi,984201,139369,1123570,9.72,Medical,6.98,Summer
+May,Jammu & Kashmir,2956789,139044,3095833,73.66,Adventure,9.97,Summer
+May,Ladakh,1036524,62828,1099352,10.7,Medical,-2.3,Summer
+May,Puducherry,4928404,174336,5102740,109.5,Medical,8.78,Summer
+May,Chandigarh,907686,103291,1010977,13.06,Business,4.42,Summer
+May,Andaman & Nicobar Islands,2475117,35517,2510634,15.32,Business,7.81,Summer
+May,Lakshadweep,1141520,81059,1222579,12.54,Business,7.1,Summer
+May,Daman & Diu,3394939,180280,3575219,30.29,Medical,8.75,Summer
+June,Andhra Pradesh,4873826,141577,5015403,115.93,Business,-1.64,Monsoon
+June,Arunachal Pradesh,2944227,8361,2952588,48.67,Religious,8.36,Monsoon
+June,Assam,4126986,149111,4276097,100.3,Adventure,14.26,Monsoon
+June,Bihar,3124770,112211,3236981,63.84,Business,11.23,Monsoon
+June,Chhattisgarh,2265770,94052,2359822,25.99,Adventure,10.2,Monsoon
+June,Goa,1832953,74267,1907220,41.48,Leisure,12.52,Monsoon
+June,Gujarat,3548201,103560,3651761,31.91,Business,4.57,Monsoon
+June,Haryana,2893121,177516,3070637,40.85,Leisure,1.06,Monsoon
+June,Himachal Pradesh,1858727,158096,2016823,28.36,Medical,-3.1,Monsoon
+June,Jharkhand,1421691,149723,1571414,17.16,Leisure,6.48,Monsoon
+June,Karnataka,691711,104277,795988,11.92,Adventure,2.6,Monsoon
+June,Kerala,3315639,195217,3510856,40.14,Adventure,-1.86,Monsoon
+June,Madhya Pradesh,1715472,39814,1755286,11.76,Leisure,3.72,Monsoon
+June,Maharashtra,701824,182922,884746,15.06,Medical,-3.9,Monsoon
+June,Manipur,997191,177364,1174555,17.86,Business,9.36,Monsoon
+June,Meghalaya,3583620,46733,3630353,42.72,Religious,6.03,Monsoon
+June,Mizoram,3502071,130482,3632553,40.13,Medical,7.08,Monsoon
+June,Nagaland,3041395,123882,3165277,75.63,Leisure,9.97,Monsoon
+June,Odisha,4595729,168450,4764179,114.92,Leisure,9.74,Monsoon
+June,Punjab,802834,119843,922677,12.98,Business,-2.22,Monsoon
+June,Rajasthan,2876418,166200,3042618,70.52,Adventure,-1.88,Monsoon
+June,Sikkim,3324559,56973,3381532,70.97,Adventure,14.63,Monsoon
+June,Tamil Nadu,4429980,134283,4564263,35.3,Business,5.08,Monsoon
+June,Telangana,212061,123140,335201,7.4,Medical,9.42,Monsoon
+June,Tripura,545880,128222,674102,12.76,Leisure,4.09,Monsoon
+June,Uttar Pradesh,561608,132672,694280,15.44,Leisure,4.44,Monsoon
+June,Uttarakhand,2983105,65865,3048970,32.52,Adventure,-3.88,Monsoon
+June,West Bengal,70153,143284,213437,1.72,Adventure,8.02,Monsoon
+June,Delhi,4342936,35407,4378343,73.05,Leisure,12.59,Monsoon
+June,Jammu & Kashmir,2933485,126833,3060318,44.51,Leisure,2.07,Monsoon
+June,Ladakh,3369003,2236,3371239,30.78,Leisure,2.63,Monsoon
+June,Puducherry,4527024,49946,4576970,103.01,Business,4.92,Monsoon
+June,Chandigarh,4159261,174239,4333500,41.47,Religious,5.49,Monsoon
+June,Andaman & Nicobar Islands,2512425,191802,2704227,57.36,Leisure,-1.45,Monsoon
+June,Lakshadweep,1001628,164666,1166294,11.81,Business,14.13,Monsoon
+June,Daman & Diu,3625433,193461,3818894,26.66,Religious,13.02,Monsoon
+July,Andhra Pradesh,3834833,51886,3886719,33.24,Business,-3.46,Monsoon
+July,Arunachal Pradesh,4522313,145775,4668088,40.16,Medical,-3.85,Monsoon
+July,Assam,1671675,71593,1743268,21.34,Medical,6.33,Monsoon
+July,Bihar,3418432,96341,3514773,69.24,Business,13.32,Monsoon
+July,Chhattisgarh,4487952,145546,4633498,109.52,Adventure,3.64,Monsoon
+July,Goa,3204121,83543,3287664,61.66,Leisure,2.39,Monsoon
+July,Gujarat,1548931,66225,1615156,29.67,Leisure,8.55,Monsoon
+July,Haryana,3507310,6447,3513757,71.54,Medical,-2.17,Monsoon
+July,Himachal Pradesh,1186345,53157,1239502,23.71,Religious,-3.92,Monsoon
+July,Jharkhand,879747,63566,943313,10.69,Leisure,4.54,Monsoon
+July,Karnataka,528654,133888,662542,13.85,Medical,-0.98,Monsoon
+July,Kerala,2038398,199461,2237859,19.59,Leisure,11.39,Monsoon
+July,Madhya Pradesh,1465932,148936,1614868,35.89,Adventure,9.58,Monsoon
+July,Maharashtra,2906814,141491,3048305,66.64,Adventure,5.79,Monsoon
+July,Manipur,4586601,196887,4783488,44.49,Business,2.43,Monsoon
+July,Meghalaya,2618734,21835,2640569,44.74,Business,-0.18,Monsoon
+July,Mizoram,4157509,167475,4324984,64.6,Medical,5.25,Monsoon
+July,Nagaland,3074256,116128,3190384,77.32,Religious,5.49,Monsoon
+July,Odisha,1844193,41175,1885368,21.15,Leisure,8.77,Monsoon
+July,Punjab,2246210,44258,2290468,43.45,Leisure,11.0,Monsoon
+July,Rajasthan,3857735,103531,3961266,38.16,Adventure,6.01,Monsoon
+July,Sikkim,2793678,58341,2852019,40.9,Leisure,10.49,Monsoon
+July,Tamil Nadu,3950099,192627,4142726,103.54,Adventure,12.63,Monsoon
+July,Telangana,60961,73428,134389,3.11,Business,6.8,Monsoon
+July,Tripura,3524548,189523,3714071,60.82,Religious,9.45,Monsoon
+July,Uttar Pradesh,1985834,109180,2095014,49.16,Adventure,1.39,Monsoon
+July,Uttarakhand,347906,152156,500062,5.4,Medical,6.34,Monsoon
+July,West Bengal,438795,121075,559870,13.99,Medical,4.02,Monsoon
+July,Delhi,3584152,37412,3621564,49.11,Religious,4.06,Monsoon
+July,Jammu & Kashmir,243208,73940,317148,2.73,Business,11.61,Monsoon
+July,Ladakh,4104907,183879,4288786,40.18,Medical,9.14,Monsoon
+July,Puducherry,3446608,93620,3540228,73.82,Adventure,-3.21,Monsoon
+July,Chandigarh,1275439,131079,1406518,24.15,Leisure,0.58,Monsoon
+July,Andaman & Nicobar Islands,4243773,42897,4286670,29.1,Leisure,-3.04,Monsoon
+July,Lakshadweep,3835274,98395,3933669,35.27,Medical,9.35,Monsoon
+July,Daman & Diu,1506117,118791,1624908,34.55,Business,11.83,Monsoon
+August,Andhra Pradesh,4464576,92913,4557489,99.84,Adventure,4.71,Monsoon
+August,Arunachal Pradesh,160401,22967,183368,4.12,Religious,-0.99,Monsoon
+August,Assam,2024102,183562,2207664,36.96,Adventure,-4.83,Monsoon
+August,Bihar,4671081,89013,4760094,101.55,Medical,3.34,Monsoon
+August,Chhattisgarh,2949565,118343,3067908,20.63,Religious,10.09,Monsoon
+August,Goa,4025272,84967,4110239,28.24,Adventure,-1.95,Monsoon
+August,Gujarat,2498014,161246,2659260,47.98,Leisure,14.13,Monsoon
+August,Haryana,4151377,61015,4212392,99.39,Business,6.9,Monsoon
+August,Himachal Pradesh,1622806,174314,1797120,34.21,Leisure,-4.5,Monsoon
+August,Jharkhand,4785625,42005,4827630,33.23,Leisure,7.22,Monsoon
+August,Karnataka,4093228,139896,4233124,97.18,Religious,4.83,Monsoon
+August,Kerala,2046460,105334,2151794,41.58,Business,8.84,Monsoon
+August,Madhya Pradesh,2612681,4712,2617393,61.15,Religious,13.33,Monsoon
+August,Maharashtra,4525959,87342,4613301,74.06,Religious,3.68,Monsoon
+August,Manipur,2488672,85929,2574601,23.2,Adventure,10.62,Monsoon
+August,Meghalaya,4631467,29126,4660593,47.67,Leisure,9.94,Monsoon
+August,Mizoram,2177470,71535,2249005,32.35,Business,10.64,Monsoon
+August,Nagaland,229379,143417,372796,2.12,Medical,-1.07,Monsoon
+August,Odisha,4339825,54324,4394149,43.3,Religious,9.65,Monsoon
+August,Punjab,3960475,17295,3977770,25.99,Leisure,7.29,Monsoon
+August,Rajasthan,763640,16067,779707,15.23,Business,8.0,Monsoon
+August,Sikkim,3327356,55362,3382718,52.62,Leisure,13.32,Monsoon
+August,Tamil Nadu,3352888,44590,3397478,56.64,Business,2.76,Monsoon
+August,Telangana,456505,121216,577721,8.46,Adventure,-3.49,Monsoon
+August,Tripura,4416121,117324,4533445,77.33,Business,12.65,Monsoon
+August,Uttar Pradesh,1595488,26457,1621945,14.54,Business,1.52,Monsoon
+August,Uttarakhand,4282449,136063,4418512,33.34,Business,5.29,Monsoon
+August,West Bengal,1667393,84612,1752005,30.1,Business,11.6,Monsoon
+August,Delhi,3369751,42942,3412693,20.43,Adventure,1.26,Monsoon
+August,Jammu & Kashmir,360555,195725,556280,11.53,Leisure,11.71,Monsoon
+August,Ladakh,736199,68462,804661,11.71,Adventure,8.2,Monsoon
+August,Puducherry,766818,184246,951064,10.49,Adventure,6.04,Monsoon
+August,Chandigarh,360369,82373,442742,9.59,Adventure,1.35,Monsoon
+August,Andaman & Nicobar Islands,3092177,165625,3257802,51.66,Leisure,4.73,Monsoon
+August,Lakshadweep,2469846,150590,2620436,47.82,Business,3.9,Monsoon
+August,Daman & Diu,2677221,57757,2734978,33.51,Religious,9.88,Monsoon
+September,Andhra Pradesh,1428113,28028,1456141,23.07,Business,7.71,Monsoon
+September,Arunachal Pradesh,2311493,16153,2327646,52.63,Business,0.63,Monsoon
+September,Assam,3157371,194452,3351823,26.22,Business,12.66,Monsoon
+September,Bihar,2934182,114309,3048491,66.98,Business,14.47,Monsoon
+September,Chhattisgarh,2207570,97266,2304836,27.29,Leisure,10.52,Monsoon
+September,Goa,934218,168268,1102486,15.93,Business,8.8,Monsoon
+September,Gujarat,3434492,34301,3468793,45.26,Religious,-1.19,Monsoon
+September,Haryana,3769384,25282,3794666,93.74,Medical,10.17,Monsoon
+September,Himachal Pradesh,4412857,33894,4446751,88.54,Business,5.55,Monsoon
+September,Jharkhand,1669430,101852,1771282,33.57,Business,-3.5,Monsoon
+September,Karnataka,2855675,124282,2979957,72.46,Religious,-2.65,Monsoon
+September,Kerala,849950,13198,863148,13.47,Medical,11.24,Monsoon
+September,Madhya Pradesh,495339,98652,593991,12.96,Adventure,0.43,Monsoon
+September,Maharashtra,812898,73448,886346,12.48,Medical,11.36,Monsoon
+September,Manipur,3174352,167834,3342186,75.47,Religious,-0.3,Monsoon
+September,Meghalaya,1266750,145348,1412098,30.89,Business,-3.86,Monsoon
+September,Mizoram,884621,70207,954828,18.29,Adventure,-3.3,Monsoon
+September,Nagaland,2375391,118607,2493998,33.8,Business,4.95,Monsoon
+September,Odisha,4360338,87863,4448201,45.87,Medical,3.7,Monsoon
+September,Punjab,2750795,92875,2843670,21.42,Adventure,5.99,Monsoon
+September,Rajasthan,4732339,50211,4782550,70.6,Medical,5.75,Monsoon
+September,Sikkim,554128,160025,714153,14.77,Religious,5.78,Monsoon
+September,Tamil Nadu,3327290,185289,3512579,62.82,Religious,0.88,Monsoon
+September,Telangana,140896,136141,277037,2.69,Religious,0.82,Monsoon
+September,Tripura,4760813,176732,4937545,90.13,Adventure,-2.56,Monsoon
+September,Uttar Pradesh,950513,59886,1010399,20.65,Medical,-0.67,Monsoon
+September,Uttarakhand,3215236,66853,3282089,72.57,Religious,-1.51,Monsoon
+September,West Bengal,4530240,141172,4671412,116.15,Business,0.07,Monsoon
+September,Delhi,4118306,170899,4289205,48.87,Adventure,0.57,Monsoon
+September,Jammu & Kashmir,3940246,113164,4053410,60.64,Religious,0.97,Monsoon
+September,Ladakh,1037904,21303,1059207,19.09,Religious,-4.07,Monsoon
+September,Puducherry,1814562,72292,1886854,15.62,Religious,11.74,Monsoon
+September,Chandigarh,4010638,146906,4157544,68.17,Business,-1.37,Monsoon
+September,Andaman & Nicobar Islands,4162093,167741,4329834,62.61,Leisure,14.07,Monsoon
+September,Lakshadweep,1907612,91768,1999380,31.24,Adventure,8.91,Monsoon
+September,Daman & Diu,3454925,104057,3558982,26.04,Medical,6.99,Monsoon
+October,Andhra Pradesh,252909,116253,369162,6.22,Business,3.54,Post-Monsoon
+October,Arunachal Pradesh,2811016,48105,2859121,45.91,Religious,4.87,Post-Monsoon
+October,Assam,4678222,71157,4749379,118.68,Leisure,3.55,Post-Monsoon
+October,Bihar,4586102,94676,4680778,44.96,Religious,-0.11,Post-Monsoon
+October,Chhattisgarh,2392705,105884,2498589,15.75,Religious,0.22,Post-Monsoon
+October,Goa,984517,73372,1057889,18.83,Business,4.43,Post-Monsoon
+October,Gujarat,4404068,46134,4450202,40.58,Adventure,5.35,Post-Monsoon
+October,Haryana,1215402,198977,1414379,16.87,Religious,2.09,Post-Monsoon
+October,Himachal Pradesh,2967184,33192,3000376,48.78,Business,1.18,Post-Monsoon
+October,Jharkhand,1614822,175799,1790621,42.67,Medical,12.02,Post-Monsoon
+October,Karnataka,2715844,102650,2818494,68.78,Religious,3.96,Post-Monsoon
+October,Kerala,1045819,114752,1160571,13.11,Business,-4.76,Post-Monsoon
+October,Madhya Pradesh,3946521,126028,4072549,59.11,Leisure,7.77,Post-Monsoon
+October,Maharashtra,2590285,153902,2744187,20.65,Religious,1.06,Post-Monsoon
+October,Manipur,991424,122078,1113502,21.36,Adventure,13.74,Post-Monsoon
+October,Meghalaya,2515732,40312,2556044,53.98,Medical,10.71,Post-Monsoon
+October,Mizoram,855355,25496,880851,6.7,Adventure,-4.2,Post-Monsoon
+October,Nagaland,3856185,191504,4047689,81.9,Leisure,13.66,Post-Monsoon
+October,Odisha,4172286,28526,4200812,30.18,Business,8.02,Post-Monsoon
+October,Punjab,1845436,20348,1865784,33.59,Business,-0.81,Post-Monsoon
+October,Rajasthan,952699,69377,1022076,18.41,Medical,-3.16,Post-Monsoon
+October,Sikkim,163606,94397,258003,4.88,Adventure,11.52,Post-Monsoon
+October,Tamil Nadu,1257837,107632,1365469,8.96,Adventure,2.73,Post-Monsoon
+October,Telangana,540290,176122,716412,14.4,Medical,14.2,Post-Monsoon
+October,Tripura,4525901,132642,4658543,62.79,Religious,-4.2,Post-Monsoon
+October,Uttar Pradesh,4896100,39376,4935476,55.72,Medical,14.37,Post-Monsoon
+October,Uttarakhand,4010670,88017,4098687,37.43,Medical,-1.85,Post-Monsoon
+October,West Bengal,4955630,18550,4974180,52.09,Adventure,2.76,Post-Monsoon
+October,Delhi,4129119,163723,4292842,105.44,Business,2.13,Post-Monsoon
+October,Jammu & Kashmir,995581,170477,1166058,16.6,Adventure,12.96,Post-Monsoon
+October,Ladakh,2253119,96064,2349183,28.19,Religious,7.73,Post-Monsoon
+October,Puducherry,873741,21417,895158,20.7,Medical,-3.84,Post-Monsoon
+October,Chandigarh,4656927,80076,4737003,106.0,Leisure,3.07,Post-Monsoon
+October,Andaman & Nicobar Islands,4060177,33775,4093952,24.32,Adventure,6.78,Post-Monsoon
+October,Lakshadweep,3740807,80218,3821025,41.68,Business,1.26,Post-Monsoon
+October,Daman & Diu,1898964,106786,2005750,48.23,Adventure,12.88,Post-Monsoon
+November,Andhra Pradesh,3807603,178313,3985916,81.7,Business,7.81,Post-Monsoon
+November,Arunachal Pradesh,1463352,41394,1504746,31.83,Medical,0.95,Post-Monsoon
+November,Assam,757098,5877,762975,14.58,Medical,10.97,Post-Monsoon
+November,Bihar,1362558,77541,1440099,14.74,Religious,-2.54,Post-Monsoon
+November,Chhattisgarh,4634597,9691,4644288,57.67,Adventure,5.71,Post-Monsoon
+November,Goa,3090048,80481,3170529,49.76,Religious,10.33,Post-Monsoon
+November,Gujarat,2961880,44695,3006575,68.38,Leisure,11.68,Post-Monsoon
+November,Haryana,2408803,75054,2483857,42.29,Religious,5.78,Post-Monsoon
+November,Himachal Pradesh,3428907,17524,3446431,41.54,Religious,5.17,Post-Monsoon
+November,Jharkhand,4575703,89415,4665118,67.79,Medical,-1.0,Post-Monsoon
+November,Karnataka,897483,17878,915361,15.57,Religious,10.53,Post-Monsoon
+November,Kerala,4002187,131300,4133487,77.45,Medical,5.96,Post-Monsoon
+November,Madhya Pradesh,2598869,60426,2659295,41.41,Business,10.03,Post-Monsoon
+November,Maharashtra,3451092,152253,3603345,83.33,Medical,14.37,Post-Monsoon
+November,Manipur,3692317,133266,3825583,73.29,Medical,11.29,Post-Monsoon
+November,Meghalaya,4556185,30116,4586301,68.42,Leisure,9.37,Post-Monsoon
+November,Mizoram,4735554,196021,4931575,114.3,Business,4.96,Post-Monsoon
+November,Nagaland,699601,109339,808940,14.13,Adventure,8.86,Post-Monsoon
+November,Odisha,3987717,17701,4005418,85.84,Business,5.61,Post-Monsoon
+November,Punjab,2238123,49658,2287781,34.97,Business,-1.83,Post-Monsoon
+November,Rajasthan,1592339,111701,1704040,10.2,Business,-4.48,Post-Monsoon
+November,Sikkim,1645330,8375,1653705,12.03,Adventure,4.28,Post-Monsoon
+November,Tamil Nadu,4869094,168682,5037776,99.35,Medical,8.82,Post-Monsoon
+November,Telangana,63585,49814,113399,1.74,Medical,8.51,Post-Monsoon
+November,Tripura,3205116,127482,3332598,78.81,Business,2.4,Post-Monsoon
+November,Uttar Pradesh,1676530,24897,1701427,16.17,Religious,-1.77,Post-Monsoon
+November,Uttarakhand,4145974,83520,4229494,61.68,Business,1.25,Post-Monsoon
+November,West Bengal,4029483,178343,4207826,67.34,Business,13.65,Post-Monsoon
+November,Delhi,4862750,183891,5046641,92.64,Business,5.0,Post-Monsoon
+November,Jammu & Kashmir,2499422,99077,2598499,30.66,Religious,5.46,Post-Monsoon
+November,Ladakh,4871719,50506,4922225,56.65,Religious,8.72,Post-Monsoon
+November,Puducherry,3291386,187462,3478848,60.38,Leisure,2.11,Post-Monsoon
+November,Chandigarh,1179593,113642,1293235,25.56,Business,13.85,Post-Monsoon
+November,Andaman & Nicobar Islands,4950452,173983,5124435,41.5,Adventure,4.11,Post-Monsoon
+November,Lakshadweep,3160541,118771,3279312,38.69,Medical,-1.86,Post-Monsoon
+November,Daman & Diu,3104142,123956,3228098,33.78,Business,-0.36,Post-Monsoon
+December,Andhra Pradesh,2031850,9106,2040956,24.06,Medical,12.85,Winter
+December,Arunachal Pradesh,1367940,82953,1450893,29.06,Medical,-4.41,Winter
+December,Assam,4195416,63496,4258912,64.93,Adventure,-3.93,Winter
+December,Bihar,779058,26654,805712,10.11,Religious,-4.24,Winter
+December,Chhattisgarh,1954299,16539,1970838,17.21,Adventure,-0.03,Winter
+December,Goa,2200520,63592,2264112,46.75,Adventure,-0.91,Winter
+December,Gujarat,256359,127998,384357,2.13,Medical,-4.59,Winter
+December,Haryana,3694737,84246,3778983,91.53,Religious,12.9,Winter
+December,Himachal Pradesh,1243705,30599,1274304,21.07,Business,2.48,Winter
+December,Jharkhand,3376993,93000,3469993,29.59,Medical,0.57,Winter
+December,Karnataka,570707,126669,697376,9.33,Medical,3.06,Winter
+December,Kerala,2641380,115198,2756578,36.39,Medical,12.07,Winter
+December,Madhya Pradesh,980342,73724,1054066,23.72,Adventure,3.22,Winter
+December,Maharashtra,1976810,197494,2174304,37.95,Religious,3.93,Winter
+December,Manipur,1763924,5763,1769687,27.82,Business,7.46,Winter
+December,Meghalaya,952215,11441,963656,5.33,Business,13.24,Winter
+December,Mizoram,3806486,117616,3924102,66.4,Leisure,-3.98,Winter
+December,Nagaland,411556,182960,594516,9.71,Business,10.12,Winter
+December,Odisha,2244685,2660,2247345,44.04,Medical,-3.6,Winter
+December,Punjab,1329231,161613,1490844,26.23,Business,2.63,Winter
+December,Rajasthan,2783324,70324,2853648,67.9,Business,-2.12,Winter
+December,Sikkim,3135545,172838,3308383,52.46,Medical,-1.32,Winter
+December,Tamil Nadu,622282,7778,630060,4.96,Business,2.09,Winter
+December,Telangana,3443146,21876,3465022,41.93,Medical,-1.16,Winter
+December,Tripura,2195864,91070,2286934,44.51,Business,5.8,Winter
+December,Uttar Pradesh,1398578,14895,1413473,16.8,Leisure,11.47,Winter
+December,Uttarakhand,519379,192823,712202,16.52,Leisure,2.29,Winter
+December,West Bengal,505555,188170,693725,12.87,Adventure,3.24,Winter
+December,Delhi,3189993,139306,3329299,26.51,Business,9.76,Winter
+December,Jammu & Kashmir,3079453,119070,3198523,29.96,Business,-4.67,Winter
+December,Ladakh,3826038,140787,3966825,98.67,Medical,9.46,Winter
+December,Puducherry,890542,134451,1024993,21.02,Religious,0.89,Winter
+December,Chandigarh,3653916,37750,3691666,18.99,Leisure,-3.99,Winter
+December,Andaman & Nicobar Islands,1257156,39975,1297131,20.04,Leisure,-4.34,Winter
+December,Lakshadweep,3755608,195538,3951146,44.25,Adventure,12.02,Winter
+December,Daman & Diu,3347331,156396,3503727,68.91,Religious,-4.2,Winter
