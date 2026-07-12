@@ -1,8 +1,4 @@
 pandas
 numpy
 matplotlib
-seaborn
-scikit-learn
-plotly
-streamlit
-joblib
+requests
