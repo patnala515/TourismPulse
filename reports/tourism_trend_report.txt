@@ -1,0 +1,13 @@
+TOURISMPULSE - TRAVEL TREND REPORT
+=============================================
+Generated On: 12-07-2026 14:23:58
+
+TOURISM INSIGHTS
+------------------------------
+- Peak travel month: November
+- Off-peak travel month: February
+- Most popular tourism season: Monsoon
+- Most visited destination: Delhi
+- Leading purpose of visit: Business
+- Total tourists analyzed: 1115127695
+- Total tourism revenue: INR 17077.28 Crore
