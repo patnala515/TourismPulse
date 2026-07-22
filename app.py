@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-
 
 st.set_page_config(
     page_title="TourismPulse",
@@ -9,26 +7,19 @@ st.set_page_config(
     layout="wide"
 )
 
-
 @st.cache_data
 def load_data():
-    return pd.read_csv(
-        "data/processed/cleaned_tourism_data.csv"
-    )
+    return pd.read_csv("data/processed/cleaned_tourism_data.csv")
 
-
-data = load_data()
-
+df = load_data()
 
 st.title("🌍 TourismPulse")
 st.subheader("Travel Analytics Engine")
+st.write("Understand destinations through tourism data.")
 
-st.write(
-    "Understand destinations through tourism data and analytics."
-)
-
-
-st.sidebar.title("TourismPulse")
+st.sidebar.title("🌍 TourismPulse")
+st.sidebar.write("Travel Analytics Dashboard")
+st.sidebar.markdown("---")
 
 page = st.sidebar.selectbox(
     "Select Analysis",
@@ -44,133 +35,182 @@ page = st.sidebar.selectbox(
     ]
 )
 
-
 if page == "Overview":
 
     st.header("Tourism Overview")
-
-    total_tourists = data["total_tourists"].sum()
-    domestic_tourists = data["domestic_tourists"].sum()
-    foreign_tourists = data["foreign_tourists"].sum()
-
-    total_revenue = data[
-        "tourism_revenue_inr_crore"
-    ].sum()
 
     col1, col2, col3, col4 = st.columns(4)
 
     col1.metric(
         "Total Tourists",
-        f"{total_tourists / 1_000_000:.2f} M"
+        f"{df['total_tourists'].sum()/1_000_000:.2f} M"
     )
 
     col2.metric(
         "Domestic Tourists",
-        f"{domestic_tourists / 1_000_000:.2f} M"
+        f"{df['domestic_tourists'].sum()/1_000_000:.2f} M"
     )
 
     col3.metric(
         "Foreign Tourists",
-        f"{foreign_tourists / 1_000_000:.2f} M"
+        f"{df['foreign_tourists'].sum()/1_000_000:.2f} M"
     )
 
     col4.metric(
-        "Tourism Revenue",
-        f"₹{total_revenue:,.2f} Cr"
+        "Revenue",
+        f"₹{df['tourism_revenue_inr_crore'].sum()/1000:.2f}K Cr"
     )
 
-    st.subheader("Top Tourist Destinations")
+    st.subheader("Top 10 Tourist States")
 
-    top_states = (
-        data.groupby("state")["total_tourists"]
+    top = (
+        df.groupby("state")["total_tourists"]
         .sum()
         .sort_values(ascending=False)
         .head(10)
     )
 
-    st.bar_chart(top_states)
-
-
+    st.bar_chart(top)
 elif page == "Seasonal Analysis":
+    
+    st.header("Seasonal Analysis")
 
-    st.header("Seasonal Visitor Analysis")
-
-    seasonal_data = (
-        data.groupby("season")[
-            [
-                "domestic_tourists",
-                "foreign_tourists",
-                "total_tourists"
-            ]
-        ]
+    seasonal = (
+        df.groupby("season")["total_tourists"]
         .sum()
+        .sort_values(ascending=False)
     )
 
-    st.dataframe(
-        seasonal_data,
-        use_container_width=True
-    )
+    st.dataframe(seasonal)
 
-    st.subheader("Tourists Across Seasons")
+    st.bar_chart(seasonal)
 
-    st.bar_chart(
-        seasonal_data["total_tourists"]
-    )
-
-    popular_season = (
-        seasonal_data["total_tourists"].idxmax()
-    )
-
-    lowest_season = (
-        seasonal_data["total_tourists"].idxmin()
-    )
-
-    col1, col2 = st.columns(2)
-
-    col1.metric(
-        "Most Popular Season",
-        popular_season
-    )
-
-    col2.metric(
-        "Lowest Visitor Season",
-        lowest_season
-    )
+    st.success(f"Most Popular Season: {seasonal.idxmax()}")
 
 
 elif page == "Peak Travel Analysis":
 
-    st.header("Peak and Off-Peak Travel Analysis")
+    st.header("Peak and Off-Peak Travel")
 
     month_order = [
-        "January",
-        "February",
-        "March",
-        "April",
-        "May",
-        "June",
-        "July",
-        "August",
-        "September",
-        "October",
-        "November",
-        "December"
+        "January", "February", "March", "April",
+        "May", "June", "July", "August",
+        "September", "October", "November", "December"
     ]
 
-    monthly_data = (
-        data.groupby("month")["total_tourists"]
+    monthly = (
+        df.groupby("month")["total_tourists"]
         .sum()
         .reindex(month_order)
     )
 
-    st.subheader("Monthly Tourist Trend")
+    st.line_chart(monthly)
 
-    st.line_chart(monthly_data)
+    c1, c2 = st.columns(2)
 
-    peak_month = monthly_data.idxmax()
-    offpeak_month = monthly_data.idxmin()
+    c1.metric(
+        "Peak Travel Month",
+        monthly.idxmax()
+    )
 
-    col1, col2 = st.columns(2)
+    c2.metric(
+        "Off-Peak Month",
+        monthly.idxmin()
+    )
 
-    col1.metric(
-        "Peak Travel
+
+elif page == "Visitor Preferences":
+
+    st.header("Visitor Preferences")
+
+    purpose = (
+        df.groupby("purpose_of_visit")["total_tourists"]
+        .sum()
+        .sort_values(ascending=False)
+    )
+
+    st.bar_chart(purpose)
+
+    st.dataframe(purpose)
+elif page == "Destination Popularity":
+    
+    st.header("Destination Popularity")
+
+    popularity = (
+        df.groupby("state")["total_tourists"]
+        .sum()
+        .sort_values(ascending=False)
+    )
+
+    st.bar_chart(popularity)
+
+    st.dataframe(popularity)
+
+
+elif page == "Demand Forecast":
+
+    st.header("Demand Forecast")
+
+    monthly_forecast = (
+        df.groupby("month")["total_tourists"]
+        .mean()
+    )
+
+    st.line_chart(monthly_forecast)
+
+    st.info("This forecast is based on the average monthly tourist count.")
+
+
+elif page == "Destination Comparison":
+
+    st.header("Destination Comparison")
+
+    states = sorted(df["state"].unique())
+
+    state1 = st.selectbox("Select State 1", states)
+
+    state2 = st.selectbox(
+        "Select State 2",
+        states,
+        index=1 if len(states) > 1 else 0
+    )
+
+    comparison = (
+        df[df["state"].isin([state1, state2])]
+        .groupby("state")["total_tourists"]
+        .sum()
+    )
+
+    st.bar_chart(comparison)
+
+    st.dataframe(comparison)
+elif page == "Emerging Hotspots":
+    
+    st.header("Emerging Hotspots")
+
+    hotspots = (
+        df.groupby("state")["growth_%_approx."]
+        .mean()
+        .sort_values(ascending=False)
+        .head(10)
+    )
+
+    st.bar_chart(hotspots)
+
+    st.dataframe(
+        hotspots.rename("Average Growth (%)")
+    )
+
+    st.success(
+        f"Top Emerging Destination: {hotspots.idxmax()}"
+    )
+    
+
+st.sidebar.markdown("---")
+st.sidebar.subheader("About")
+st.sidebar.write(
+    "TourismPulse is a travel analytics dashboard developed using Python, Pandas, and Streamlit."
+)
+
+st.markdown("---")
+st.caption("Developed by Sowmya Patnala | TourismPulse © 2026")
